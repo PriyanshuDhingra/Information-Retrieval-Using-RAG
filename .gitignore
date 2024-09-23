@@ -1,0 +1,8 @@
+venv
+.env
+Experiments
+data
+logs
+notebook
+storage
+temp
